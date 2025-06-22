@@ -4,7 +4,7 @@ Welcome to the Flairhost GitHub Page.
 
 This repository contains our public projects and code. We are committed to providing high-quality hosting solutions and are excited to share our work with the community.
 
-## Check Us Out
+## Links
 
 - [Website](https://flair.host)
 - [X](https://twitter.com/flairhost)
