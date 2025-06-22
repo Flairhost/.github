@@ -8,7 +8,7 @@ This repository contains our public projects and code. We are committed to provi
 
 - [Website](https://flair.host)
 - [X](https://twitter.com/flairhost)
-- [Instagram](https://instagram.com/flairhost)
+- [Instagram](https://instagram.com/flair.host)
 - [Discord](https://discord.gg/ppGZyp4UfF)
 - [Status](https://status.flair.host)
 
